@@ -3,8 +3,9 @@ package org.lesson.java.inheritance;
 public class Shop {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		Smartphone smartphone = new Smartphone("telefono", "motorola", 9, 12, null, 0 );
+	
+	
 	}
-
 }
+ 
